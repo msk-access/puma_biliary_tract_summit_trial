@@ -1,0 +1,191 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	NCBI_Build	Chromosome	Start_Position	End_Position	Strand	Consequence	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele1	Tumor_Seq_Allele2	dbSNP_RS	dbSNP_Val_Status	Tumor_Sample_Barcode	Matched_Norm_Sample_Barcode	Match_Norm_Seq_Allele1	Match_Norm_Seq_Allele2	Tumor_Validation_Allele1	Tumor_Validation_Allele2	Match_Norm_Validation_Allele1	Match_Norm_Validation_Allele2	Verification_Status	Validation_Status	Mutation_Status	Sequencing_Phase	Sequence_Source	Validation_Method	Score	BAM_File	Sequencer	t_ref_count	t_alt_count	n_ref_count	n_alt_count	HGVSc	HGVSp	HGVSp_Short	Transcript_ID	RefSeq	Protein_position	Codons	Hotspot
+ATM	0	mskcc.org	GRCh37	11	108178699	108178699	+	Missense_Mutation	SNP	G	G	C	rs377289524			P7_A	Normal	G	G														46	1919			c.5750G>C	p.Arg1917Thr	p.R1917T	NM_000051.3				
+ATM	0	mskcc.org	GRCh37	11	108192027	108192027	+	Splice_Site	SNP	G	G	C				P7_A	Normal	G	G														46	1863			c.6453-1G>C		p.X2151_splice	NM_000051.3				
+CDH1	0	mskcc.org	GRCh37	16	68856065	68856065	+	Missense_Mutation	SNP	C	C	G	novel			P7_A	Normal	C	C														63	2671			c.1873C>G	p.Pro625Ala	p.P625A	NM_004360.3				
+CDH1	0	mskcc.org	GRCh37	16	68867235	68867235	+	Missense_Mutation	SNP	G	G	A	novel			P7_A	Normal	G	G														75	2775			c.2482G>A	p.Asp828Asn	p.D828N	NM_004360.3				
+TP53	0	mskcc.org	GRCh37	17	7573991	7573991	+	Nonsense_Mutation	SNP	C	C	A				P7_A	Normal	C	C														45	2114			c.1036G>T	p.Glu346Ter	p.E346*	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37866662	37866662	+	Missense_Mutation	SNP	G	G	T				P7_A	Normal	G	G														5	3466			c.829G>T	p.Asp277Tyr	p.D277Y	NM_004448.2				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	T	T				P7_A	Normal	C	C														5	3961			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+BRCA1	0	mskcc.org	GRCh37	17	41245681	41245681	+	Missense_Mutation	SNP	G	G	A	novel			P7_A	Normal	G	G														67	2513			c.1867C>T	p.Leu623Phe	p.L623F	NM_007294.3				
+PIK3CA	0	mskcc.org	GRCh37	3	178936091	178936091	+	Missense_Mutation	SNP	G	G	A	rs104886003			P7_A	Normal	G	G														14	753			c.1633G>A	p.Glu545Lys	p.E545K	NM_006218.2				
+FBXW7	0	mskcc.org	GRCh37	4	153249510	153249510	+	Missense_Mutation	SNP	C	C	T	novel			P7_A	Normal	C	C														75	2288			c.1268G>A	p.Gly423Glu	p.G423E	NM_033632.3				
+TP53	0	mskcc.org	GRCh37	17	7577539	7577539	+	Missense_Mutation	SNP	G	G	A	rs121912651			P10_A	Normal	G	G														94	1979			c.742C>T	p.Arg248Trp	p.R248W	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	C	T				P10_A	Normal	C	C														139	3578			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+KDM6A	0	mskcc.org	GRCh37	X	44969357	44969357	+	Nonsense_Mutation	SNP	G	G	T	novel			P10_A	Normal	G	G														19	1651			c.4039G>T	p.Glu1347Ter	p.E1347*	NM_021140.2				
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999	+	Frame_Shift_Del	DEL	T	T	-				P15_C	Normal	T	T														1139	547			c.1028delA	p.Glu343GlyfsTer2	p.E343Gfs*2	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	T	T				P15_C	Normal	C	C														10235	403			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+KEAP1	0	mskcc.org	GRCh37	19	10610360	10610360	+	Missense_Mutation	SNP	T	T	A	novel			P15_C	Normal	T	T														6	1577			c.350A>T	p.Glu117Val	p.E117V	NM_203500.1				
+APC	0	mskcc.org	GRCh37	5	112111327	112111327	+	Missense_Mutation	SNP	T	T	A	novel			P15_C	Normal	T	T														33	572			c.424T>A	p.Ser142Thr	p.S142T	NM_000038.5				
+TGFBR1	0	mskcc.org	GRCh37	9	101900144	101900144	+	Missense_Mutation	SNP	T	T	C	novel			P15_C	Normal	T	T														387	1604			c.578T>C	p.Leu193Ser	p.L193S	NM_004612.2				
+ATM	0	mskcc.org	GRCh37	11	108178711	108178711	+	Missense_Mutation	SNP	G	G	A	novel			P6_A	Normal	G	G														1309	3158			c.5762G>A	p.Arg1921Lys	p.R1921K	NM_000051.3				
+ERBB3	0	mskcc.org	GRCh37	12	56478854	56478854	+	Missense_Mutation	SNP	G	A	A				P6_A	Normal	G	G														10605	837			c.310G>A	p.Val104Met	p.V104M	NM_001982.3				
+AKT1	0	mskcc.org	GRCh37	14	105241314	105241314	+	Missense_Mutation	SNP	C	C	G	novel			P6_A	Normal	C	C														8	15840			c.594G>C	p.Glu198Asp	p.E198D	NM_001014431.1				
+TP53	0	mskcc.org	GRCh37	17	7577502	7577502	+	Missense_Mutation	SNP	G	G	C				P6_A	Normal	G	G														95	6411			c.779C>G	p.Ser260Cys	p.S260C	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37880997	37880997	+	Missense_Mutation	SNP	G	G	T				P6_A	Normal	G	T														3138	11854			c.2326G>T	p.Gly776Cys	p.G776C	NM_004448.2				
+ERBB2	0	mskcc.org	GRCh37	17	37881440	37881440	+	Missense_Mutation	SNP	C	C	T				P6_A	Normal	C	T														9750	4047			c.2632C>T	p.His878Tyr	p.H878Y	NM_004448.2				
+PDGFRA	0	mskcc.org	GRCh37	4	55141048	55141048	+	Missense_Mutation	SNP	T	T	A	novel			P6_A	Normal	T	T														40	4765			c.1694T>A	p.Ile565Asn	p.I565N	NM_006206.4				
+APC	0	mskcc.org	GRCh37	5	112175639	112175639	+	Nonsense_Mutation	SNP	C	C	T	rs121913332			P6_A	Normal	C	C														4779	7025			c.4348C>T	p.Arg1450Ter	p.R1450*	NM_000038.5				
+TP53	0	mskcc.org	GRCh37	17	7579556	7579594	+	Splice_Site	DEL	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	-	novel			P8_A	Normal	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT														170	2283			c.97-4_131delACAGTCCCCCTTGCCGTCCCAAGCAATGGATGATTTGAT		p.X33_splice	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37880261	37880261	+	Missense_Mutation	SNP	G	G	T				P8_A	Normal	G	G														780	2296			c.2305G>T	p.Asp769Tyr	p.D769Y	NM_004448.2				
+CTNNB1	0	mskcc.org	GRCh37	3	41266124	41266124	+	Missense_Mutation	SNP	A	A	G	rs121913412			P8_A	Normal	A	A														347	3180			c.121A>G	p.Thr41Ala	p.T41A	NM_001904.3				
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999	+	Frame_Shift_Del	DEL	T	T	-				P15_D	Normal	T	T														6	693			c.1028delA	p.Glu343GlyfsTer2	p.E343Gfs*2	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	C	T				P15_D	Normal	C	C														613	742			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+APC	0	mskcc.org	GRCh37	5	112111327	112111327	+	Missense_Mutation	SNP	T	T	A	novel			P15_D	Normal	T	T														23	334			c.424T>A	p.Ser142Thr	p.S142T	NM_000038.5				
+ATM	0	mskcc.org	GRCh37	11	108205829	108205829	+	Missense_Mutation	SNP	T	T	G				P15_E	Normal	T	T														11	1449			c.8144T>G	p.Leu2715Arg	p.L2715R	NM_000051.3				
+BRCA2	0	mskcc.org	GRCh37	13	32930687	32930687	+	Nonsense_Mutation	SNP	C	C	T	rs80358981			P15_E	Normal	C	C														207	1449			c.7558C>T	p.Arg2520Ter	p.R2520*	NM_000059.3				
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999	+	Frame_Shift_Del	DEL	T	T	-				P15_E	Normal	T	T														407	1129			c.1028delA	p.Glu343GlyfsTer2	p.E343Gfs*2	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37866609	37866609	+	Missense_Mutation	SNP	A	A	C	novel			P15_E	Normal	A	A														6	8815			c.776A>C	p.Asn259Thr	p.N259T	NM_004448.2				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	T	T				P15_E	Normal	C	C														7673	512			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+SMAD4	0	mskcc.org	GRCh37	18	48604688	48604688	+	Missense_Mutation	SNP	A	A	C	novel			P15_E	Normal	A	A														21	1385			c.1510A>C	p.Ser504Arg	p.S504R	NM_005359.5				
+APC	0	mskcc.org	GRCh37	5	112111327	112111327	+	Missense_Mutation	SNP	T	T	A	novel			P15_E	Normal	T	T														23	606			c.424T>A	p.Ser142Thr	p.S142T	NM_000038.5				
+APC	0	mskcc.org	GRCh37	5	112179106	112179106	+	Missense_Mutation	SNP	A	A	C	novel			P15_E	Normal	A	A														7	1426			c.7815A>C	p.Gln2605His	p.Q2605H	NM_000038.5				
+TGFBR1	0	mskcc.org	GRCh37	9	101900144	101900144	+	Missense_Mutation	SNP	T	T	C	novel			P15_E	Normal	T	T														100	1176			c.578T>C	p.Leu193Ser	p.L193S	NM_004612.2				
+BRCA2	0	mskcc.org	GRCh37	13	32930687	32930687	+	Nonsense_Mutation	SNP	C	C	T	rs80358981			P15_F	Normal	C	C														122	1735			c.7558C>T	p.Arg2520Ter	p.R2520*	NM_000059.3				
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999	+	Frame_Shift_Del	DEL	T	T	-				P15_F	Normal	T	T														287	1354			c.1028delA	p.Glu343GlyfsTer2	p.E343Gfs*2	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	T	T				P15_F	Normal	C	C														6093	984			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+SMAD4	0	mskcc.org	GRCh37	18	48604688	48604688	+	Missense_Mutation	SNP	A	A	C	novel			P15_F	Normal	A	A														12	1675			c.1510A>C	p.Ser504Arg	p.S504R	NM_005359.5				
+ERCC2	0	mskcc.org	GRCh37	19	45856005	45856005	+	Missense_Mutation	SNP	T	T	A	novel			P15_F	Normal	T	T														7	1952			c.1901A>T	p.Lys634Met	p.K634M	NM_000400.3				
+APC	0	mskcc.org	GRCh37	5	112111327	112111327	+	Missense_Mutation	SNP	T	T	A	novel			P15_F	Normal	T	T														30	589			c.424T>A	p.Ser142Thr	p.S142T	NM_000038.5				
+APC	0	mskcc.org	GRCh37	5	112179106	112179106	+	Missense_Mutation	SNP	A	A	C	novel			P15_F	Normal	A	A														6	1521			c.7815A>C	p.Gln2605His	p.Q2605H	NM_000038.5				
+TGFBR1	0	mskcc.org	GRCh37	9	101900144	101900144	+	Missense_Mutation	SNP	T	T	C	novel			P15_F	Normal	T	T														66	1415			c.578T>C	p.Leu193Ser	p.L193S	NM_004612.2				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	C	T				P20_A	Normal	C	C														18	1518			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+ATM	0	mskcc.org	GRCh37	11	108155142	108155142	+	Missense_Mutation	SNP	G	G	C	novel			P1_A	Normal	G	G														369	2180			c.3935G>C	p.Arg1312Thr	p.R1312T	NM_000051.3				
+BRCA2	0	mskcc.org	GRCh37	13	32972831	32972832	+	Missense_Mutation	DNP	AG	AG	CT	novel			P1_A	Normal	AG	AG														24	2138			c.10181_10182invAG	p.Gln3394Pro	p.Q3394P	NM_000059.3				
+RB1	0	mskcc.org	GRCh37	13	48954374	48954374	+	Missense_Mutation	SNP	A	A	G	novel			P1_A	Normal	A	A														8	2071			c.1495A>G	p.Ser499Gly	p.S499G	NM_000321.2				
+NF1	0	mskcc.org	GRCh37	17	29652971	29652971	+	Missense_Mutation	SNP	G	G	A	novel			P1_A	Normal	G	G														21	1841			c.4969G>A	p.Asp1657Asn	p.D1657N	NM_001042492.2				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P1_A	Normal	G	G														823	2547			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+SMAD4	0	mskcc.org	GRCh37	18	48591892	48591892	+	Missense_Mutation	SNP	G	G	A	rs377767345			P1_A	Normal	G	G														354	1132			c.1055G>A	p.Gly352Glu	p.G352E	NM_005359.5				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P21_A	Normal	G	G														12	1962			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+TP53	0	mskcc.org	GRCh37	17	7578406	7578406	+	Missense_Mutation	SNP	C	C	T	rs28934578			P9_A	Normal	C	C														67	2127			c.524G>A	p.Arg175His	p.R175H	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208	+	Missense_Mutation	SNP	C	C	T				P9_A	Normal	C	C														979	2713			c.929C>T	p.Ser310Phe	p.S310F	NM_004448.2				
+NFE2L2	0	mskcc.org	GRCh37	2	178098803	178098803	+	Missense_Mutation	SNP	C	C	T				P9_A	Normal	C	C														222	2456			c.242G>A	p.Gly81Asp	p.G81D	NM_006164.4				
+BRCA2	0	mskcc.org	GRCh37	13	32929338	32929338	+	Missense_Mutation	SNP	A	A	G	novel			P8_C	Normal	A	A														14	3186			c.7348A>G	p.Asn2450Asp	p.N2450D	NM_000059.3				
+TP53	0	mskcc.org	GRCh37	17	7579556	7579594	+	Splice_Site	DEL	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	-	novel			P8_C	Normal	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT														281	2007			c.97-4_131delACAGTCCCCCTTGCCGTCCCAAGCAATGGATGATTTGAT		p.X33_splice	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37880261	37880261	+	Missense_Mutation	SNP	G	G	T				P8_C	Normal	G	G														2058	1923			c.2305G>T	p.Asp769Tyr	p.D769Y	NM_004448.2				
+CTNNB1	0	mskcc.org	GRCh37	3	41266124	41266124	+	Missense_Mutation	SNP	A	A	G	rs121913412			P8_C	Normal	A	A														627	2631			c.121A>G	p.Thr41Ala	p.T41A	NM_001904.3				
+TP53	0	mskcc.org	GRCh37	17	7579556	7579594	+	Splice_Site	DEL	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	-	novel			P8_B	Normal	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT	ATCAAATCATCCATTGCTTGGGACGGCAAGGGGGACTGT														287	2047			c.97-4_131delACAGTCCCCCTTGCCGTCCCAAGCAATGGATGATTTGAT		p.X33_splice	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37880261	37880261	+	Missense_Mutation	SNP	G	G	T				P8_B	Normal	G	G														1473	2069			c.2305G>T	p.Asp769Tyr	p.D769Y	NM_004448.2				
+CTNNB1	0	mskcc.org	GRCh37	3	41266124	41266124	+	Missense_Mutation	SNP	A	A	G	rs121913412			P8_B	Normal	A	A														564	2807			c.121A>G	p.Thr41Ala	p.T41A	NM_001904.3				
+BRCA2	0	mskcc.org	GRCh37	13	32929338	32929338	+	Missense_Mutation	SNP	A	A	G	novel			P8_B	Normal	A	A														5	3110			c.7348A>G	p.Asn2450Asp	p.N2450D	NM_000059.3				
+BRCA2	0	mskcc.org	GRCh37	13	32929338	32929338	+	Missense_Mutation	SNP	A	A	G	novel			P8_A	Normal	A	A														2	2974			c.7348A>G	p.Asn2450Asp	p.N2450D	NM_000059.3				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P21_C	Normal	G	G														6	2020			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P21_D	Normal	G	G														13	837			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+TP53	0	mskcc.org	GRCh37	17	7578242	7578242	+	Missense_Mutation	SNP	C	C	A				P21_E	Normal	C	C														178	1386			c.607G>T	p.Val203Leu	p.V203L	NM_000546.5				
+NF1	0	mskcc.org	GRCh37	17	29667658	29667658	+	Missense_Mutation	SNP	G	G	T	novel			P21_E	Normal	G	G														104	2058			c.7057G>T	p.Asp2353Tyr	p.D2353Y	NM_001042492.2				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P21_E	Normal	G	G														444	1945			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+RHOA	0	mskcc.org	GRCh37	3	49405951	49405951	+	Missense_Mutation	SNP	G	G	T				P21_E	Normal	G	G														92	1534			c.187C>A	p.Gln63Lys	p.Q63K	NM_001664.2				
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000	+	Missense_Mutation	SNP	G	G	T	rs121913471			P21_B	Normal	G	G														1	744			c.2329G>T	p.Val777Leu	p.V777L	NM_004448.2				
+NF1	0	mskcc.org	GRCh37	17	29667658	29667658	+	Missense_Mutation	SNP	G	G	T	novel			P21_A	Normal	G	G														2	1766			c.7057G>T	p.Asp2353Tyr	p.D2353Y	NM_001042492.2				
+NF1	0	mskcc.org	GRCh37	17	29667658	29667658	+	Missense_Mutation	SNP	G	G	T	novel			P21_C	Normal	G	G														1	1834			c.7057G>T	p.Asp2353Tyr	p.D2353Y	NM_001042492.2				
+NF1	0	mskcc.org	GRCh37	17	29667658	29667658	+	Missense_Mutation	SNP	G	G	T	novel			P21_D	Normal	G	G														2	783			c.7057G>T	p.Asp2353Tyr	p.D2353Y	NM_001042492.2				
+RHOA	0	mskcc.org	GRCh37	3	49405951	49405951	+	Missense_Mutation	SNP	G	G	T				P21_C	Normal	G	G														1	1676			c.187C>A	p.Gln63Lys	p.Q63K	NM_001664.2				
+TP53	0	mskcc.org	GRCh37	17	7578242	7578242	+	Missense_Mutation	SNP	C	C	A				P21_A	Normal	C	C														6	1598			c.607G>T	p.Val203Leu	p.V203L	NM_000546.5				
+TP53	0	mskcc.org	GRCh37	17	7578242	7578242	+	Missense_Mutation	SNP	C	C	A				P21_C	Normal	C	C														1	1669			c.607G>T	p.Val203Leu	p.V203L	NM_000546.5				
+TP53	0	mskcc.org	GRCh37	17	7578242	7578242	+	Missense_Mutation	SNP	C	C	A				P21_D	Normal	C	C														3	758			c.607G>T	p.Val203Leu	p.V203L	NM_000546.5				
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	A				P17_A	Normal																102	330					S310Y					
+ARID1A	0	mskcc.org	GRCh37	1	27102089	27102095		Frame_Shift_Del	DEL	TAATGAT	TAATGAT	-				P17_A	Normal																107	502					V1672Gfs*15					
+SMAD4	0	mskcc.org	GRCh37	18	48604656	48604656		Missense_Mutation	SNP	A	A	G				P17_A	Normal																79	276					D493G					
+ARID2	0	mskcc.org	GRCh37	12	46123652	46123676		Frame_Shift_Del	DEL	CGAGCGGAGAAAGGGACTCGCTTTC	CGAGCGGAGAAAGGGACTCGCTTTC	-				P17_A	Normal																101	793					E12Wfs*38					
+IKZF1	0	mskcc.org	GRCh37	7	50450267	50450267		Missense_Mutation	SNP	G	G	A				P17_A	Normal																70	390					G151R					
+ERBB3	0	mskcc.org	GRCh37	12	56492590	56492590		Missense_Mutation	SNP	G	G	C				P17_A	Normal																124	468					G914R					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	A				P18_A	Normal																57	1089					S310Y					
+PIK3CA	0	mskcc.org	GRCh37	3	178916854	178916854		Missense_Mutation	SNP	G	G	A				P18_A	Normal																69	1184					E81K					
+ERBB2	0	mskcc.org	GRCh37	17	37881000	37881000		Missense_Mutation	SNP	G	G	T				P23_A	Normal																181	302					V777L					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	T				P23_A	Normal																121	334					S310F					
+KRAS	0	mskcc.org	GRCh37	12	25380275	25380275		Missense_Mutation	SNP	T	T	A				P23_A	Normal																40	498					Q61H					
+CDKN2A	0	mskcc.org	GRCh37	9	21971186	21971186		Nonsense_Mutation	SNP	G	G	A				P23_A	Normal																129	344					R58*					
+TP53	0	mskcc.org	GRCh37	17	7577100	7577100		Missense_Mutation	SNP	T	T	C				P23_A	Normal																13	454					R280G					
+APC	0	mskcc.org	GRCh37	5	112175951	112175952		Frame_Shift_Ins	INS	-	-	A				P23_A	Normal																30	101					T1556Nfs*3					
+TERT	0	mskcc.org	GRCh37	5	1295228	1295228		5'Flank	SNP	G	G	A				P23_A	Normal																66	272					Promoter					
+TP53	0	mskcc.org	GRCh37	17	7578246	7578253		Frame_Shift_Del	DEL	CAAATTTC	CAAATTTC	-				P23_A	Normal																26	286					G199Afs*7					
+STK19	0	mskcc.org	GRCh37	6	31940443	31940443		Missense_Mutation	SNP	G	G	A				P23_A	Normal																120	818					R159Q					
+NTRK3	0	mskcc.org	GRCh37	15	88680698	88680698		Missense_Mutation	SNP	G	G	A				P23_A	Normal																72	323					L187F					
+FOXP1	0	mskcc.org	GRCh37	3	71021809	71021809		Missense_Mutation	SNP	G	G	C				P23_A	Normal																22	251					L517V					
+ERBB2	0	mskcc.org	GRCh37	17	37881332	37881332		Missense_Mutation	SNP	G	G	A				P19_A	Normal																44	471					V842I					
+ERBB2	0	mskcc.org	GRCh37	17	37879601	37879602		Missense_Mutation	DNP	TT	TT	AG				P19_A	Normal																22	232					V659E					
+ASXL2	0	mskcc.org	GRCh37	2	25972936	25972936		Missense_Mutation	SNP	C	C	T				P19_A	Normal																136	153					A497T					
+HLA-C	0	mskcc.org	GRCh37	6	31238889	31238889		Missense_Mutation	SNP	T	T	C				P19_A	Normal																18	161					R194G					
+TET1	0	mskcc.org	GRCh37	10	70405541	70405541		Missense_Mutation	SNP	A	A	G				P19_A	Normal																52	64					K1019E					
+PIK3CD	0	mskcc.org	GRCh37	1	9777599	9777599		Missense_Mutation	SNP	C	C	G				P19_A	Normal																86	113					S312C					
+PRDM1	0	mskcc.org	GRCh37	6	106547325	106547325		Missense_Mutation	SNP	A	A	G				P19_A	Normal																59	100					K188E					
+PTPRS	0	mskcc.org	GRCh37	19	5223018	5223018		Missense_Mutation	SNP	G	G	A				P19_A	Normal																215	199					R929C					
+TSC2	0	mskcc.org	GRCh37	16	2110795	2110795		Missense_Mutation	SNP	G	G	A				P19_A	Normal																171	179					R367Q					
+MDC1	0	mskcc.org	GRCh37	6	30671760	30671760		Missense_Mutation	SNP	C	C	T				P19_A	Normal																128	209					A1734T					
+MAP3K1	0	mskcc.org	GRCh37	5	56177410	56177411		Frame_Shift_Ins	INS	-	-	T				P19_A	Normal																16	86					S796Vfs*11					
+MGA	0	mskcc.org	GRCh37	15	42058553	42058553		Missense_Mutation	SNP	G	G	C				P19_A	Normal																323	377					W2758S					
+DIS3	0	mskcc.org	GRCh37	13	73340177	73340177		Missense_Mutation	SNP	G	G	A				P19_A	Normal																44	48					P635S					
+HLA-B	0	mskcc.org	GRCh37	6	31323983	31323983		Missense_Mutation	SNP	T	T	C				P19_A	Normal																14	48					R194G					
+RICTOR	0	mskcc.org	GRCh37	5	38950405	38950405		Missense_Mutation	SNP	T	T	C				P19_A	Normal																60	62					D1182G					
+PAK5	0	mskcc.org	GRCh37	20	9561429	9561429		Missense_Mutation	SNP	C	C	T				P19_A	Normal																85	116					G118D					
+NOTCH3	0	mskcc.org	GRCh37	19	15290007	15290007		Missense_Mutation	SNP	C	C	T				P19_A	Normal																337	361					V1183M					
+MGA	0	mskcc.org	GRCh37	15	42026789	42026789		Nonsense_Mutation	SNP	C	C	T				P19_A	Normal																27	271					Q1305*					
+MDC1	0	mskcc.org	GRCh37	6	30671969	30671969		Missense_Mutation	SNP	G	G	C				P19_A	Normal																154	239					T1664S					
+HIST1H2BC	0	mskcc.org	GRCh37	6	26184082	26184082		Missense_Mutation	SNP	C	C	G				P19_A	Normal																16	8					T20S					
+DNMT1	0	mskcc.org	GRCh37	19	10292716	10292716		Splice_Site	SNP	C	C	G				P19_A	Normal																51	42					X39_splice					
+ERBB2	0	mskcc.org	GRCh37	17	37879658	37879658		Missense_Mutation	SNP	G	G	A				P22_A	Normal																28	541					R678Q					
+EP300	0	mskcc.org	GRCh37	22	41572405	41572405		Missense_Mutation	SNP	G	G	A				P22_A	Normal																39	549					R1645Q					
+FAT1	0	mskcc.org	GRCh37	4	187549698	187549699		Frame_Shift_Del	DEL	AG	AG	-				P22_A	Normal																22	352					T1516Ffs*2					
+YAP1	0	mskcc.org	GRCh37	11	101981861	101981863		In_Frame_Del	DEL	CTT	CTT	-				P22_A	Normal																70	911					F96del					
+CDH1	0	mskcc.org	GRCh37	16	68862139	68862139		Frame_Shift_Del	DEL	C	C	-				P22_A	Normal																40	588					P744Qfs*26					
+SOX17	0	mskcc.org	GRCh37	8	55370976	55370976		Missense_Mutation	SNP	T	T	C				P22_A	Normal																24	443					L93P					
+RBM10	0	mskcc.org	GRCh37	23	47041267	47041267		Splice_Site	SNP	T	T	C				P22_A	Normal																33	279					X487_splice					
+FAT1	0	mskcc.org	GRCh37	4	187628226	187628228		In_Frame_Del	DEL	TCT	TCT	-				P22_A	Normal																37	547					E918del					
+ERBB2	0	mskcc.org	GRCh37	17	37881332	37881332		Missense_Mutation	SNP	G	G	A				P13_A	Normal																81	486					V842I					
+CTNNB1	0	mskcc.org	GRCh37	3	41266124	41266124		Missense_Mutation	SNP	A	A	G				P13_A	Normal																78	209					T41A					
+TP53	0	mskcc.org	GRCh37	17	7578212	7578212		Nonsense_Mutation	SNP	G	G	A				P13_A	Normal																124	284					R213*					
+STK11	0	mskcc.org	GRCh37	19	1220487	1220487		Missense_Mutation	SNP	G	G	C				P13_A	Normal																236	458					D194H					
+ELF3	0	mskcc.org	GRCh37	1	201983120	201983121		Frame_Shift_Ins	INS	-	-	AT				P13_A	Normal																164	357					M324Ifs*2					
+CDKN2A	0	mskcc.org	GRCh37	9	21971177	21971178		Nonsense_Mutation	DNP	CC	CC	AA				P13_A	Normal																248	503					E61*					
+HIST1H3J	0	mskcc.org	GRCh37	6	27858171	27858171		Missense_Mutation	SNP	C	C	T				P13_A	Normal																64	370					E134K					
+RBM10	0	mskcc.org	GRCh37	23	47045114	47045114		Splice_Site	SNP	G	G	A				P13_A	Normal																170	366					X708_splice					
+XRCC2	0	mskcc.org	GRCh37	7	152346098	152346098		Missense_Mutation	SNP	C	C	G				P13_A	Normal																78	313					D158H					
+MITF	0	mskcc.org	GRCh37	3	70001028	70001028		Missense_Mutation	SNP	C	C	T				P13_A	Normal																40	187					H310Y					
+BRAF	0	mskcc.org	GRCh37	7	140453155	140453155		Missense_Mutation	SNP	C	C	T				P13_A	Normal																26	352					D594N					
+ERBB2	0	mskcc.org	GRCh37	17	37879903	37879903		Missense_Mutation	SNP	C	C	T				P13_A	Normal																130	894					T733I					
+TP53	0	mskcc.org	GRCh37	17	7574012	7574012		Nonsense_Mutation	SNP	C	C	A				P13_A	Normal																186	978					E339*					
+CDKN2A	0	mskcc.org	GRCh37	9	21971159	21971159		Missense_Mutation	SNP	C	C	T				P13_A	Normal																41	740					G67S					
+LATS2	0	mskcc.org	GRCh37	13	21557927	21557927		Missense_Mutation	SNP	C	C	G				P13_A	Normal																24	395					E640Q					
+APC	0	mskcc.org	GRCh37	5	112176212	112176218		Frame_Shift_Del	DEL	GTGTATT	GTGTATT	-				P13_A	Normal																53	704					Y1642Lfs*6					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	T				P25_A	Normal																65	385					S310F					
+SMAD4	0	mskcc.org	GRCh37	18	48591919	48591919		Missense_Mutation	SNP	G	G	A				P25_A	Normal																63	458					R361H					
+TRIM49	0	mskcc.org	GRCh37	11	89531533	89531533		Missense_Mutation	SNP	G	G	T				P25_A	Normal																11	157					A375E					
+ERBB2	0	mskcc.org	GRCh37	17	37879658	37879658		Missense_Mutation	SNP	G	G	A				P24_A	Normal																69	682					R678Q					
+CDKN2A	0	mskcc.org	GRCh37	9	21971108	21971108		Missense_Mutation	SNP	C	C	A				P24_A	Normal																88	1009					D84Y					
+TP53	0	mskcc.org	GRCh37	17	7577120	7577120		Missense_Mutation	SNP	C	C	T				P24_A	Normal																47	632					R273H					
+ERBB3	0	mskcc.org	GRCh37	12	56482537	56482537		Missense_Mutation	SNP	G	G	A				P24_A	Normal																51	469					E332K					
+RBM10	0	mskcc.org	GRCh37	23	47041439	47041439		Nonsense_Mutation	SNP	C	C	T				P24_A	Normal																36	308					Q517*					
+ELF3	0	mskcc.org	GRCh37	1	201983138	201983139		Frame_Shift_Ins	INS	-	-	AGCC				P24_A	Normal																63	419					R331Qfs*141					
+MAP2K4	0	mskcc.org	GRCh37	17	12016676	12016676		Missense_Mutation	SNP	C	C	T				P24_A	Normal																25	274					A271V					
+SPEN	0	mskcc.org	GRCh37	1	16264021	16264021		Missense_Mutation	SNP	G	G	A				P24_A	Normal																60	966					G3464S					
+ERBB2	0	mskcc.org	GRCh37	17	37880220	37880220		Missense_Mutation	SNP	T	T	C				P2_A	Normal																324	1125					L755S					
+CTNNB1	0	mskcc.org	GRCh37	3	41266136	41266136		Missense_Mutation	SNP	T	T	C				P2_A	Normal																181	532					S45P					
+TP53	0	mskcc.org	GRCh37	17	7578406	7578406		Missense_Mutation	SNP	C	C	T				P2_A	Normal																115	41					R175H					
+SMAD4	0	mskcc.org	GRCh37	18	48603032	48603032		Nonsense_Mutation	SNP	C	C	T				P2_A	Normal																25	202					R445*					
+SMAD4	0	mskcc.org	GRCh37	18	48593481	48593481		Frame_Shift_Del	DEL	G	G	-				P2_A	Normal																66	212					S411Ifs*4					
+NTRK2	0	mskcc.org	GRCh37	9	87636191	87636191		Nonsense_Mutation	SNP	C	C	T				P2_A	Normal																23	250					R786*					
+TBX3	0	mskcc.org	GRCh37	12	115118854	115118854		Missense_Mutation	SNP	A	A	C				P2_A	Normal																207	392					Y163D					
+INSR	0	mskcc.org	GRCh37	19	7126620	7126620		Missense_Mutation	SNP	G	G	T				P2_A	Normal																18	173					N996K					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	T				P11_A	Normal																252	444					S310F					
+CDKN2A	0	mskcc.org	GRCh37	9	21974697	21974697		Frame_Shift_Del	DEL	A	A	-				P11_A	Normal																113	189					Y44Tfs*9					
+TP53	0	mskcc.org	GRCh37	17	7578271	7578271		Missense_Mutation	SNP	T	T	C				P11_A	Normal																155	229					H193R					
+NSD1	0	mskcc.org	GRCh37	5	176721490	176721511		Frame_Shift_Del	DEL	CACTGGAGAAAACCTCAGTTCC	CACTGGAGAAAACCTCAGTTCC	-				P11_A	Normal																46	370					E2376Afs*2					
+ERBB3	0	mskcc.org	GRCh37	12	56486842	56486842		Missense_Mutation	SNP	G	G	C				P11_A	Normal																154	172					G419A					
+NOTCH1	0	mskcc.org	GRCh37	9	139390543	139390543		Missense_Mutation	SNP	T	T	C				P11_A	Normal																319	816					I2550V					
+STK11	0	mskcc.org	GRCh37	19	1220487	1220487		Missense_Mutation	SNP	G	G	A				P12_A	Normal																16	766					D194N					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	T				P15_A	Normal																7022	819					S310F					
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999		Frame_Shift_Del	DEL	T	T	-				P15_A	Normal																253	146					E343Gfs*2					
+TGFBR1	0	mskcc.org	GRCh37	9	101900144	101900144		Missense_Mutation	SNP	T	T	C				P15_A	Normal																62	162					L193S					
+GLI1	0	mskcc.org	GRCh37	12	57860036	57860036		Missense_Mutation	SNP	A	A	G				P15_A	Normal																33	366					E259G					
+RAD51B	0	mskcc.org	GRCh37	14	68934893	68934893		Missense_Mutation	SNP	T	T	G				P15_A	Normal																26	254					L321R					
+CD79A	0	mskcc.org	GRCh37	19	42383144	42383144		Missense_Mutation	SNP	C	C	T				P15_A	Normal																215	479					P55L					
+MALT1	0	mskcc.org	GRCh37	18	56363640	56363641		In_Frame_Ins	INS	-	-	TGGACAGTT				P15_A	Normal																50	145					G141_F143dup					
+BRCA2	0	mskcc.org	GRCh37	13	32930687	32930687		Nonsense_Mutation	SNP	C	C	T				P15_B	Normal																506	139					R2520*					
+TP53	0	mskcc.org	GRCh37	17	7573999	7573999		Frame_Shift_Del	DEL	T	T	-				P15_B	Normal																658	191					E343Gfs*2					
+CSF3R	0	mskcc.org	GRCh37	1	36937937	36937937		Missense_Mutation	SNP	G	G	A				P15_B	Normal																97	847					A300V					
+MST1R	0	mskcc.org	GRCh37	3	49935584	49935584		Missense_Mutation	SNP	A	A	T				P15_B	Normal																444	728					F594I					
+KMT2D	0	mskcc.org	GRCh37	12	49443896	49443896		Missense_Mutation	SNP	C	C	G				P15_B	Normal																246	762					E1159Q					
+CHEK2	0	mskcc.org	GRCh37	22	29130561	29130561		Missense_Mutation	SNP	C	C	G				P15_B	Normal																314	1172					S50T					
+RBM10	0	mskcc.org	GRCh37	23	47045186	47045186		Missense_Mutation	SNP	G	G	A				P15_B	Normal																245	509					M731I					
+ERBB2	0	mskcc.org	GRCh37	17	37868208	37868208		Missense_Mutation	SNP	C	C	T				P16_A	Normal																105	756					S310F					
+CXCR4	0	mskcc.org	GRCh37	2	136872955	136872955		Missense_Mutation	SNP	A	A	T				P16_A	Normal																213	1157					D181E					
+BAP1	0	mskcc.org	GRCh37	3	52441415	52441415		Missense_Mutation	SNP	C	C	T				P16_A	Normal																106	596					R146K					
